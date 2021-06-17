@@ -1,0 +1,428 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="interfaces.cpp" />
+    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="aim.cpp">
+      <Filter>features</Filter>
+    </ClCompile>
+    <ClCompile Include="CBasePlayer.cpp">
+      <Filter>sdk</Filter>
+    </ClCompile>
+    <ClCompile Include="simple_settings.cpp">
+      <Filter>data</Filter>
+    </ClCompile>
+    <ClCompile Include="math.cpp">
+      <Filter>util</Filter>
+    </ClCompile>
+    <ClCompile Include="movement.cpp">
+      <Filter>features</Filter>
+    </ClCompile>
+    <ClCompile Include="ctx.cpp">
+      <Filter>context</Filter>
+    </ClCompile>
+    <ClCompile Include="framestagenotify.cpp">
+      <Filter>hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="paint.cpp">
+      <Filter>hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="graphics.cpp">
+      <Filter>util</Filter>
+    </ClCompile>
+    <ClCompile Include="CBaseWeapon.cpp">
+      <Filter>sdk</Filter>
+    </ClCompile>
+    <ClCompile Include="chl_createmove.cpp">
+      <Filter>hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="clientmode_createmove.cpp">
+      <Filter>hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="projectile_pred.cpp">
+      <Filter>util</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyValues.cpp">
+      <Filter>sdk</Filter>
+    </ClCompile>
+    <ClCompile Include="prediction.cpp">
+      <Filter>features</Filter>
+    </ClCompile>
+    <ClCompile Include="process_movement.cpp">
+      <Filter>hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="input_system.cpp">
+      <Filter>util</Filter>
+    </ClCompile>
+    <ClCompile Include="d3d.cpp">
+      <Filter>util</Filter>
+    </ClCompile>
+    <ClCompile Include="d3d_sprite.cpp">
+      <Filter>util</Filter>
+    </ClCompile>
+    <ClCompile Include="directx.cpp">
+      <Filter>hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="factory.cpp" />
+    <ClCompile Include="util.cpp">
+      <Filter>util</Filter>
+    </ClCompile>
+    <ClCompile Include="renderer.cpp">
+      <Filter>util</Filter>
+    </ClCompile>
+    <ClCompile Include="netvars.cpp">
+      <Filter>data</Filter>
+    </ClCompile>
+    <ClCompile Include="hooks.cpp">
+      <Filter>hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="checksum_crc.cpp">
+      <Filter>sdk</Filter>
+    </ClCompile>
+    <ClCompile Include="visuals_draw.cpp">
+      <Filter>features</Filter>
+    </ClCompile>
+    <ClCompile Include="visuals_world.cpp">
+      <Filter>features</Filter>
+    </ClCompile>
+    <ClCompile Include="visuals_players.cpp">
+      <Filter>features</Filter>
+    </ClCompile>
+    <ClCompile Include="visuals_local.cpp">
+      <Filter>features</Filter>
+    </ClCompile>
+    <ClCompile Include="override_mouse_input.cpp">
+      <Filter>hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="get_viewmodel_fov.cpp">
+      <Filter>hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="do_post_screen_space_effects.cpp">
+      <Filter>hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="override_view.cpp">
+      <Filter>hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="shut_down.cpp">
+      <Filter>hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="draw_model_execute.cpp">
+      <Filter>hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="scene_end.cpp">
+      <Filter>hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="on_screen_size_changed.cpp">
+      <Filter>hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="emit_sound.cpp">
+      <Filter>hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="window_procedure.cpp">
+      <Filter>hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="chams.cpp">
+      <Filter>features</Filter>
+    </ClCompile>
+    <ClCompile Include="extra.cpp">
+      <Filter>features</Filter>
+    </ClCompile>
+    <ClCompile Include="console.cpp">
+      <Filter>util</Filter>
+    </ClCompile>
+    <ClCompile Include="listener.cpp">
+      <Filter>hooks\hookers</Filter>
+    </ClCompile>
+    <ClCompile Include="aim_lagcomp.cpp">
+      <Filter>features</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="interfaces.h" />
+    <ClInclude Include="sdk.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="IClientMode.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="CHLClient.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="IEngineVGui.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="IClientEntityList.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="IEngineTrace.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="CGlobalVarsBase.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="IVDebugOverlay.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="IVEngineClient.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="CBasePlayer.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="IPanel.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="ISurface.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="VFunc.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="IClientEntity.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="netvars.h">
+      <Filter>data</Filter>
+    </ClInclude>
+    <ClInclude Include="dt_common.h">
+      <Filter>data</Filter>
+    </ClInclude>
+    <ClInclude Include="dt_recv.h">
+      <Filter>data</Filter>
+    </ClInclude>
+    <ClInclude Include="aim.h">
+      <Filter>features</Filter>
+    </ClInclude>
+    <ClInclude Include="simple_settings.h">
+      <Filter>data</Filter>
+    </ClInclude>
+    <ClInclude Include="settings.h">
+      <Filter>data</Filter>
+    </ClInclude>
+    <ClInclude Include="math.h">
+      <Filter>util</Filter>
+    </ClInclude>
+    <ClInclude Include="base_cheat.h">
+      <Filter>features</Filter>
+    </ClInclude>
+    <ClInclude Include="conditions.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="IPlayerInfoManager.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="ClientClass.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="movement.h">
+      <Filter>features</Filter>
+    </ClInclude>
+    <ClInclude Include="ICvar.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="GlowObject.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="UtlMem.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="IInputSystem.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="IAppSystem.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="ButtonCode_t.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="fnv.hpp">
+      <Filter>protection</Filter>
+    </ClInclude>
+    <ClInclude Include="ctx.hpp">
+      <Filter>context</Filter>
+    </ClInclude>
+    <ClInclude Include="vmt.h">
+      <Filter>util</Filter>
+    </ClInclude>
+    <ClInclude Include="hooks.h">
+      <Filter>hooks</Filter>
+    </ClInclude>
+    <ClInclude Include="graphics.h">
+      <Filter>util</Filter>
+    </ClInclude>
+    <ClInclude Include="factory.hpp">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="IVRenderView.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="CBaseWeapon.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="projectile_pred.h">
+      <Filter>util</Filter>
+    </ClInclude>
+    <ClInclude Include="CAttribute.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="ScreenSpaceEffects.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyValues.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="prediction.h">
+      <Filter>features</Filter>
+    </ClInclude>
+    <ClInclude Include="IGameMovement.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="ui.h">
+      <Filter>menu</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_base_item.h">
+      <Filter>menu</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_button.h">
+      <Filter>menu</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_checkbox.h">
+      <Filter>menu</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_color_picker.h">
+      <Filter>menu</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_draw.h">
+      <Filter>menu</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_dropdown.h">
+      <Filter>menu</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_dropdown_item.h">
+      <Filter>menu</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_form.h">
+      <Filter>menu</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_key_picker.h">
+      <Filter>menu</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_label.h">
+      <Filter>menu</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_menu.h">
+      <Filter>menu</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_render.h">
+      <Filter>menu</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_slider.h">
+      <Filter>menu</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_tab_manager.h">
+      <Filter>menu</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_text_input.h">
+      <Filter>menu</Filter>
+    </ClInclude>
+    <ClInclude Include="input_system.hpp">
+      <Filter>util</Filter>
+    </ClInclude>
+    <ClInclude Include="util.hpp">
+      <Filter>util</Filter>
+    </ClInclude>
+    <ClInclude Include="icons.hpp">
+      <Filter>util</Filter>
+    </ClInclude>
+    <ClInclude Include="d3d.hpp">
+      <Filter>util</Filter>
+    </ClInclude>
+    <ClInclude Include="d3d_sprite.hpp">
+      <Filter>util</Filter>
+    </ClInclude>
+    <ClInclude Include="factory.h" />
+    <ClInclude Include="console.hpp" />
+    <ClInclude Include="strings.hpp">
+      <Filter>protection</Filter>
+    </ClInclude>
+    <ClInclude Include="x86.hpp">
+      <Filter>util</Filter>
+    </ClInclude>
+    <ClInclude Include="con_fn.hpp" />
+    <ClInclude Include="con_alias.hpp" />
+    <ClInclude Include="pattern.hpp">
+      <Filter>util</Filter>
+    </ClInclude>
+    <ClInclude Include="vector.hpp">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="color.hpp">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="renderer.hpp">
+      <Filter>util</Filter>
+    </ClInclude>
+    <ClInclude Include="netvar_proxy.hpp">
+      <Filter>hooks\hookers</Filter>
+    </ClInclude>
+    <ClInclude Include="IMaterialSystem.hpp">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="checksum_crc.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="IGameEventManager.h">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="mem.hpp">
+      <Filter>util</Filter>
+    </ClInclude>
+    <ClInclude Include="CInput.hpp">
+      <Filter>sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="visuals.hpp">
+      <Filter>features</Filter>
+    </ClInclude>
+    <ClInclude Include="chams.h">
+      <Filter>features</Filter>
+    </ClInclude>
+    <ClInclude Include="identity.h">
+      <Filter>features</Filter>
+    </ClInclude>
+    <ClInclude Include="extra.h">
+      <Filter>features</Filter>
+    </ClInclude>
+    <ClInclude Include="listener.hpp">
+      <Filter>hooks\hookers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="sdk">
+      <UniqueIdentifier>{3662005c-363b-4165-98d1-4cd08efa5aec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="data">
+      <UniqueIdentifier>{9b96d956-b922-4bc1-a7fd-448a79007f56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="features">
+      <UniqueIdentifier>{971e8665-630e-40f6-a426-a9c59476dd28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="util">
+      <UniqueIdentifier>{7abe95b2-6694-4252-9044-b0a3b6ca500d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="menu">
+      <UniqueIdentifier>{280b6489-8704-41f7-98d1-76e4510e59b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="context">
+      <UniqueIdentifier>{45735c33-3420-447c-9257-46d489466c79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="hooks">
+      <UniqueIdentifier>{8f34dc36-01d7-4458-a53a-f3698e843b94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="protection">
+      <UniqueIdentifier>{bf4d8bec-9f02-4e3b-99bd-a328befb5cd3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="hooks\hookers">
+      <UniqueIdentifier>{2c764ae7-bdc8-4a36-b752-8ac395c2c006}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

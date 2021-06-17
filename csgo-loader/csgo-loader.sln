@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "csgo-client", "csgo-client\csgo-client.vcxproj", "{084F93FE-7F05-446D-8403-B5903F9C72DE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "csgo-server", "csgo-server\csgo-server.vcxproj", "{97FAC435-B009-4571-AE91-31DC52D47598}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "csgo-module", "csgo-module\csgo-module.vcxproj", "{3A767D6A-B6D0-4D39-92B6-62FD4537F3BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		FuckMSVC|x64 = FuckMSVC|x64
+		FuckMSVC|x86 = FuckMSVC|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{084F93FE-7F05-446D-8403-B5903F9C72DE}.Debug|x64.ActiveCfg = Debug|x64
+		{084F93FE-7F05-446D-8403-B5903F9C72DE}.Debug|x64.Build.0 = Debug|x64
+		{084F93FE-7F05-446D-8403-B5903F9C72DE}.Debug|x86.ActiveCfg = Debug|Win32
+		{084F93FE-7F05-446D-8403-B5903F9C72DE}.Debug|x86.Build.0 = Debug|Win32
+		{084F93FE-7F05-446D-8403-B5903F9C72DE}.FuckMSVC|x64.ActiveCfg = FuckMSVC|x64
+		{084F93FE-7F05-446D-8403-B5903F9C72DE}.FuckMSVC|x64.Build.0 = FuckMSVC|x64
+		{084F93FE-7F05-446D-8403-B5903F9C72DE}.FuckMSVC|x86.ActiveCfg = FuckMSVC|Win32
+		{084F93FE-7F05-446D-8403-B5903F9C72DE}.FuckMSVC|x86.Build.0 = FuckMSVC|Win32
+		{084F93FE-7F05-446D-8403-B5903F9C72DE}.Release|x64.ActiveCfg = Release|x64
+		{084F93FE-7F05-446D-8403-B5903F9C72DE}.Release|x64.Build.0 = Release|x64
+		{084F93FE-7F05-446D-8403-B5903F9C72DE}.Release|x86.ActiveCfg = Release|Win32
+		{084F93FE-7F05-446D-8403-B5903F9C72DE}.Release|x86.Build.0 = Release|Win32
+		{97FAC435-B009-4571-AE91-31DC52D47598}.Debug|x64.ActiveCfg = Debug|x64
+		{97FAC435-B009-4571-AE91-31DC52D47598}.Debug|x64.Build.0 = Debug|x64
+		{97FAC435-B009-4571-AE91-31DC52D47598}.Debug|x86.ActiveCfg = Debug|Win32
+		{97FAC435-B009-4571-AE91-31DC52D47598}.Debug|x86.Build.0 = Debug|Win32
+		{97FAC435-B009-4571-AE91-31DC52D47598}.FuckMSVC|x64.ActiveCfg = FuckMSVC|x64
+		{97FAC435-B009-4571-AE91-31DC52D47598}.FuckMSVC|x64.Build.0 = FuckMSVC|x64
+		{97FAC435-B009-4571-AE91-31DC52D47598}.FuckMSVC|x86.ActiveCfg = FuckMSVC|Win32
+		{97FAC435-B009-4571-AE91-31DC52D47598}.FuckMSVC|x86.Build.0 = FuckMSVC|Win32
+		{97FAC435-B009-4571-AE91-31DC52D47598}.Release|x64.ActiveCfg = Release|x64
+		{97FAC435-B009-4571-AE91-31DC52D47598}.Release|x64.Build.0 = Release|x64
+		{97FAC435-B009-4571-AE91-31DC52D47598}.Release|x86.ActiveCfg = Release|Win32
+		{97FAC435-B009-4571-AE91-31DC52D47598}.Release|x86.Build.0 = Release|Win32
+		{3A767D6A-B6D0-4D39-92B6-62FD4537F3BD}.Debug|x64.ActiveCfg = Debug|x64
+		{3A767D6A-B6D0-4D39-92B6-62FD4537F3BD}.Debug|x64.Build.0 = Debug|x64
+		{3A767D6A-B6D0-4D39-92B6-62FD4537F3BD}.Debug|x86.ActiveCfg = Debug|Win32
+		{3A767D6A-B6D0-4D39-92B6-62FD4537F3BD}.Debug|x86.Build.0 = Debug|Win32
+		{3A767D6A-B6D0-4D39-92B6-62FD4537F3BD}.FuckMSVC|x64.ActiveCfg = FuckMSVC|x64
+		{3A767D6A-B6D0-4D39-92B6-62FD4537F3BD}.FuckMSVC|x64.Build.0 = FuckMSVC|x64
+		{3A767D6A-B6D0-4D39-92B6-62FD4537F3BD}.FuckMSVC|x86.ActiveCfg = Release|Win32
+		{3A767D6A-B6D0-4D39-92B6-62FD4537F3BD}.FuckMSVC|x86.Build.0 = Release|Win32
+		{3A767D6A-B6D0-4D39-92B6-62FD4537F3BD}.Release|x64.ActiveCfg = Release|x64
+		{3A767D6A-B6D0-4D39-92B6-62FD4537F3BD}.Release|x64.Build.0 = Release|x64
+		{3A767D6A-B6D0-4D39-92B6-62FD4537F3BD}.Release|x86.ActiveCfg = Release|Win32
+		{3A767D6A-B6D0-4D39-92B6-62FD4537F3BD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1511A0FE-9AB1-4526-BDF9-E3B0D4B0FBB1}
+	EndGlobalSection
+EndGlobal

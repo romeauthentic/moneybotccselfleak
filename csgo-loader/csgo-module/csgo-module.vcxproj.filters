@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Module.cpp" />
+    <ClCompile Include="Networking\TCPClient.cpp">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="Security\Encryption.cpp">
+      <Filter>Security</Filter>
+    </ClCompile>
+    <ClCompile Include="Security\SyscallManager.cpp">
+      <Filter>Security</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Module.hpp" />
+    <ClInclude Include="Networking\TCPClient.hpp">
+      <Filter>Networking</Filter>
+    </ClInclude>
+    <ClInclude Include="Security\Encryption.hpp">
+      <Filter>Security</Filter>
+    </ClInclude>
+    <ClInclude Include="Security\FnvHash.hpp">
+      <Filter>Security</Filter>
+    </ClInclude>
+    <ClInclude Include="Security\SyscallManager.hpp">
+      <Filter>Security</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Security">
+      <UniqueIdentifier>{5c3d9ea2-e561-435a-b858-e71f87afe818}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Networking">
+      <UniqueIdentifier>{bc2e1992-5068-4c22-842f-8f6bf028f0d1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

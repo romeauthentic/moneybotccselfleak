@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Networking">
+      <UniqueIdentifier>{c0b87a42-5f8c-4ec7-919a-16b441abdd94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Security">
+      <UniqueIdentifier>{3e8f141d-613e-4d66-ac05-291558658254}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Login">
+      <UniqueIdentifier>{98ddda7c-73be-42b5-b886-54a50b15fa4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RemoteCode">
+      <UniqueIdentifier>{3c9a9cd2-82c3-4375-b31a-5a520499c3c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserExperience">
+      <UniqueIdentifier>{b7c1f216-0875-4f2f-80b1-ae8effd88227}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserExperience\MoneybotShared">
+      <UniqueIdentifier>{d0ee88e4-0de5-4beb-9117-d57c25848e4e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Client.cpp" />
+    <ClCompile Include="Security\Encryption.cpp">
+      <Filter>Security</Filter>
+    </ClCompile>
+    <ClCompile Include="Networking\TCPClient.cpp">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="Login\RemoteLogin.cpp">
+      <Filter>Login</Filter>
+    </ClCompile>
+    <ClCompile Include="Security\SyscallManager.cpp">
+      <Filter>Security</Filter>
+    </ClCompile>
+    <ClCompile Include="UserExperience\MoneybotShared\d3d.cpp">
+      <Filter>UserExperience\MoneybotShared</Filter>
+    </ClCompile>
+    <ClCompile Include="UserExperience\MoneybotShared\d3d_sprite.cpp">
+      <Filter>UserExperience\MoneybotShared</Filter>
+    </ClCompile>
+    <ClCompile Include="UserExperience\MoneybotShared\input_system.cpp">
+      <Filter>UserExperience\MoneybotShared</Filter>
+    </ClCompile>
+    <ClCompile Include="UserExperience\MoneybotShared\ui_text_input.cpp">
+      <Filter>UserExperience\MoneybotShared</Filter>
+    </ClCompile>
+    <ClCompile Include="UserExperience\MoneybotShared\window.cpp">
+      <Filter>UserExperience\MoneybotShared</Filter>
+    </ClCompile>
+    <ClCompile Include="UserExperience\UserInterface.cpp">
+      <Filter>UserExperience</Filter>
+    </ClCompile>
+    <ClCompile Include="RemoteCode\RemoteProcess.cpp">
+      <Filter>RemoteCode</Filter>
+    </ClCompile>
+    <ClCompile Include="Security\RuntimeSecurity.cpp">
+      <Filter>Security</Filter>
+    </ClCompile>
+    <ClCompile Include="RemoteCode\RemoteMapper.cpp">
+      <Filter>RemoteCode</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Security\Encryption.hpp">
+      <Filter>Security</Filter>
+    </ClInclude>
+    <ClInclude Include="Networking\TCPClient.hpp">
+      <Filter>Networking</Filter>
+    </ClInclude>
+    <ClInclude Include="Login\RemoteLogin.hpp">
+      <Filter>Login</Filter>
+    </ClInclude>
+    <ClInclude Include="Security\SyscallManager.hpp">
+      <Filter>Security</Filter>
+    </ClInclude>
+    <ClInclude Include="Security\FnvHash.hpp">
+      <Filter>Security</Filter>
+    </ClInclude>
+    <ClInclude Include="UserExperience\MoneybotShared\color.hpp">
+      <Filter>UserExperience\MoneybotShared</Filter>
+    </ClInclude>
+    <ClInclude Include="UserExperience\MoneybotShared\d3d.hpp">
+      <Filter>UserExperience\MoneybotShared</Filter>
+    </ClInclude>
+    <ClInclude Include="UserExperience\MoneybotShared\d3d_sprite.hpp">
+      <Filter>UserExperience\MoneybotShared</Filter>
+    </ClInclude>
+    <ClInclude Include="UserExperience\MoneybotShared\input_system.hpp">
+      <Filter>UserExperience\MoneybotShared</Filter>
+    </ClInclude>
+    <ClInclude Include="UserExperience\MoneybotShared\math.hpp">
+      <Filter>UserExperience\MoneybotShared</Filter>
+    </ClInclude>
+    <ClInclude Include="UserExperience\MoneybotShared\ui.h">
+      <Filter>UserExperience\MoneybotShared</Filter>
+    </ClInclude>
+    <ClInclude Include="UserExperience\MoneybotShared\ui_base_item.h">
+      <Filter>UserExperience\MoneybotShared</Filter>
+    </ClInclude>
+    <ClInclude Include="UserExperience\MoneybotShared\ui_button.h">
+      <Filter>UserExperience\MoneybotShared</Filter>
+    </ClInclude>
+    <ClInclude Include="UserExperience\MoneybotShared\ui_checkbox.h">
+      <Filter>UserExperience\MoneybotShared</Filter>
+    </ClInclude>
+    <ClInclude Include="UserExperience\MoneybotShared\ui_color_picker.h">
+      <Filter>UserExperience\MoneybotShared</Filter>
+    </ClInclude>
+    <ClInclude Include="UserExperience\MoneybotShared\ui_draw.h">
+      <Filter>UserExperience\MoneybotShared</Filter>
+    </ClInclude>
+    <ClInclude Include="UserExperience\MoneybotShared\ui_dropdown.h">
+      <Filter>UserExperience\MoneybotShared</Filter>
+    </ClInclude>
+    <ClInclude Include="UserExperience\MoneybotShared\ui_dropdown_item.h">
+      <Filter>UserExperience\MoneybotShared</Filter>
+    </ClInclude>
+    <ClInclude Include="UserExperience\MoneybotShared\ui_form.h">
+      <Filter>UserExperience\MoneybotShared</Filter>
+    </ClInclude>
+    <ClInclude Include="UserExperience\MoneybotShared\ui_key_picker.h">
+      <Filter>UserExperience\MoneybotShared</Filter>
+    </ClInclude>
+    <ClInclude Include="UserExperience\MoneybotShared\ui_label.h">
+      <Filter>UserExperience\MoneybotShared</Filter>
+    </ClInclude>
+    <ClInclude Include="UserExperience\MoneybotShared\ui_menu.h">
+      <Filter>UserExperience\MoneybotShared</Filter>
+    </ClInclude>
+    <ClInclude Include="UserExperience\MoneybotShared\ui_progressbar.h">
+      <Filter>UserExperience\MoneybotShared</Filter>
+    </ClInclude>
+    <ClInclude Include="UserExperience\MoneybotShared\ui_render.h">
+      <Filter>UserExperience\MoneybotShared</Filter>
+    </ClInclude>
+    <ClInclude Include="UserExperience\MoneybotShared\ui_slider.h">
+      <Filter>UserExperience\MoneybotShared</Filter>
+    </ClInclude>
+    <ClInclude Include="UserExperience\MoneybotShared\ui_tab_manager.h">
+      <Filter>UserExperience\MoneybotShared</Filter>
+    </ClInclude>
+    <ClInclude Include="UserExperience\MoneybotShared\ui_text_input.h">
+      <Filter>UserExperience\MoneybotShared</Filter>
+    </ClInclude>
+    <ClInclude Include="UserExperience\MoneybotShared\util.hpp">
+      <Filter>UserExperience\MoneybotShared</Filter>
+    </ClInclude>
+    <ClInclude Include="UserExperience\MoneybotShared\window.hpp">
+      <Filter>UserExperience\MoneybotShared</Filter>
+    </ClInclude>
+    <ClInclude Include="UserExperience\UserInterface.hpp">
+      <Filter>UserExperience</Filter>
+    </ClInclude>
+    <ClInclude Include="RemoteCode\RemoteProcess.hpp">
+      <Filter>RemoteCode</Filter>
+    </ClInclude>
+    <ClInclude Include="Client.hpp" />
+    <ClInclude Include="Security\RuntimeSecurity.hpp">
+      <Filter>Security</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="RemoteCode\RemoteMapper.hpp">
+      <Filter>RemoteCode</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="csgo-client.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="loader.ico" />
+  </ItemGroup>
+</Project>

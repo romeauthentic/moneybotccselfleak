@@ -1,0 +1,371 @@
+[fmMain.rsPropSaver1]
+cbActiveContext.Checked="False"
+cbActiveX.Checked="False"
+cbAllowAnyDir.Checked="False"
+cbAllowAVI.Checked="False"
+cbAlvaroCustomMessage.Lines=text:"This version is too old. Please $0D$0Aupdate to a new one.$0D$0A$0D$0AFor latest updates, visit $0D$0Ahttp://www.mysite.com$0D$0A"
+cbAlvaroDateEnabled.Checked="False"
+cbAlvaroDatePicker.Date=0.0
+cbAlvaroRegKey.Text="Software\Company\Product"
+cbAlvaroSectionName.Text=".upx"
+cbAntiDumpers.Checked="True"
+cbAntiPatching.ItemIndex=1
+cbAPIWrapping.Checked="True"
+cbAssembliesProtect.Checked="False"
+cbAutoHandleVirtualMachines.Checked="False"
+cbAvoidDoubleAPI.Checked="False"
+cbBanHardwareIDpartial.Checked="False"
+cbBanLicenseWhenBannedHardwareID.Checked="False"
+cbBugCheck.Checked="False"
+cbChangeSectionName.Checked="True"
+cbCompressApp.Checked="True"
+cbCompressEngine.Checked="True"
+cbCompressResources.Checked="True"
+cbControlMsgExports.Checked="False"
+cbCustomEnv.Checked="False"
+cbCustomFileStore.Checked="False"
+cbCustomImportTable.Checked="False"
+cbCustomLD.Checked="False"
+cbCustomMsgDLL_DontEmbed.Checked="False"
+cbCustomMsgDLL_ExtractW98.Checked="False"
+cbCustomRegStore.Checked="False"
+cbDebuggerAction.ItemIndex=1
+cbDebugInt.Checked="False"
+cbDelayDLL.Checked="False"
+cbDelayTLSloading.Checked="False"
+cbDelphiProtect.Checked="False"
+cbDetectProcExplorer.Checked="False"
+cbDinamicOpcodes.ItemIndex=1
+cbDisableMacros.Checked="False"
+cbDisableNETencrypt2.Checked="False"
+cbDisableOverlayEncrypt.Checked="False"
+cbDisablePrefetch.Checked="False"
+cbDisableRegMonThread.Checked="False"
+cbDisableShowCode.Checked="False"
+cbDisableWineSupport.Checked="False"
+cbDLLNotFoundMsg.Checked="False"
+cbDllPlugin.Checked="False"
+cbDontFixHooks.Checked="False"
+cbDontHookAllModules.Checked="False"
+cbDontHookAllModulesType2.Checked="False"
+cbDontStripRelocs.Checked="False"
+cbDontWrapExceptions.Checked="False"
+cbDotNetHookCompatible.Checked="False"
+cbDotNetRemap.Checked="False"
+cbEnablePortMon.Checked="True"
+cbEncryptApp.Checked="True"
+cbEntryPoint.Checked="True"
+cbExternalEnvelope.Checked="False"
+cbExtraObfuscation.Checked="True"
+cbFakeStack.Checked="False"
+cbFastCheckIntegrity.Checked="False"
+cbFilesMonitorBlocker.Checked="False"
+cbFixOverlayStart.Checked="False"
+cbFoolScanners.Checked="True"
+cbForceBasicHWid.Checked="False"
+cbForceDeepFreeze.Checked="False"
+cbForceExitOnTimeExpiration.Checked="False"
+cbForceForm.Checked="False"
+cbForceImportLib.Checked="False"
+cbForceIntegrityChecks.Checked="True"
+cbFullBIOScrc.Checked="False"
+cbGetAppVer.Checked="True"
+cbGetPrivateProfile.Checked="False"
+cbGetVerVer.Checked="True"
+cbHideDriverStr.Checked="True"
+cbHideScanner.ItemIndex=2
+cbHookAllModules.Checked="False"
+cbHookCustomInt.Checked="False"
+cbIgnoreSharedSections.Checked="False"
+cbImplicitImport.Checked="False"
+cbImplicitRedirection.Checked="False"
+cbImportFunction.Checked="False"
+cbImportLib.Checked="False"
+cbIndirectAPIcall.Checked="False"
+cbInsertExraSection.Checked="False"
+cbKeepDateTime.Checked="True"
+cbKeepDebugInfo.Checked="False"
+cbLastSectionName.Checked="False"
+cbManifest.ItemIndex=5
+cbMemoryPatchers.Checked="True"
+cbMiscellaneous.Checked="False"
+cbModifyPEStruct.Checked="False"
+cbMultiBranch.Checked="False"
+cbNetInstancesDelay.Checked="False"
+cbNetInstancesType.Checked="False"
+cbNetInstCountByComputers.Checked="False"
+cbNoCheckDeepFreeze.Checked="False"
+cbNoThreadEngine.Checked="False"
+cbNumCPUs.ItemIndex=0
+cbOptimizeWDCUnload.Checked="False"
+cbPartialHooking.Checked="False"
+cbPatchBilleniumEffect.Checked="False"
+cbPatchIcon.Checked="False"
+cbPortExit.Checked="False"
+cbPortMessage.Checked="True"
+cbPortSDK.Checked="False"
+cbProcessorType.ItemIndex=0
+cbProtectAsFlash.Checked="False"
+cbProtectedWithCV.Checked="False"
+cbRefixInitialThunk.Checked="False"
+cbRefixRuntimeTLS.Checked="False"
+cbRegistryMonitorBlocker.Checked="False"
+cbReHookingEnabled.Checked="False"
+cbResourceEncrypt.Checked="True"
+cbRestoreSectionAttributtes.Checked="False"
+cbRsrcExtraSpace.Checked="False"
+cbRunWithParams.Checked="False"
+cbSameAsInput.Checked="False"
+cbSandbox.Checked="True"
+cbSetNullRsrc.Checked="False"
+cbSimulateBSS.Checked="False"
+cbSkipDbgMsg.Checked="False"
+cbSkipExtDebDetection.Checked="False"
+cbSmartKeyDetect.Checked="False"
+cbSocketPort.Checked="False"
+cbStopMerging.Checked="False"
+cbStripExports.Checked="False"
+cbStripRelocs.Checked="False"
+cbTaggant.Checked="False"
+cbThemidaDbgInfo.Checked="True"
+cbTrialExtensionNoAdd.Checked="False"
+cbVbApiOptimization.Checked="False"
+cbVirtualizeInstructions.Checked="False"
+cbVirtualizeInstructions.Value=3
+cbVirtualMachine.Checked="True"
+cbVMComplexity.ItemIndex=2
+cbVMWareSimulate98.Checked="False"
+cbWinMapDisable.Checked="False"
+cbXBdeleteOnExit.Checked="False"
+cbXBundleActXCheck.Checked="False"
+cbXBundlerAVI.Checked="False"
+cbXBundlerExceptionSupport.Checked="False"
+cbXBundlerExtractError.Checked="False"
+cbXBundlerHookDLL.Checked="False"
+cbXBundlerHookMainOnly.Checked="False"
+cbXBundlerMatchPaths.Checked="False"
+cbXBundlerSkipL1.Checked="False"
+cbXBundlerSkipL2.Checked="False"
+edInputFileName.Text="X:\moneybot\csgo-loader\bin\Release\csgo-client.exe"
+edOutputFileName.Text="X:\moneybot\csgo-loader\bin\Release\nkP4Qn692WNVzT5nvfVekvj.exe"
+edProxyHost.Enabled="False"
+edProxyPassword.Enabled="False"
+edProxyPort.Enabled="False"
+edProxyUser.Enabled="False"
+edSectionName.Text="Themida"
+EntryPointVirtualization.Value=0
+InternalMessages.Items=hex:04,44,61,74,61,0A,47,0A,00,00,0C,00,00,00,30,00,\
+  00,00,02,00,00,00,02,00,00,00,FF,FF,FF,FF,FF,FF,FF,FF,00,00,00,00,01,00,00,\
+  00,17,4D,73,67,49,44,30,20,3A,20,47,6C,6F,62,61,6C,20,43,61,70,74,69,6F,6E,\
+  1A,00,00,00,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,00,00,00,00,00,\
+  00,00,00,01,20,30,00,00,00,02,00,00,00,02,00,00,00,FF,FF,FF,FF,FF,FF,FF,FF,\
+  00,00,00,00,02,00,00,00,17,4D,73,67,49,44,31,20,3A,20,44,65,62,75,67,67,65,\
+  72,20,66,6F,75,6E,64,49,00,00,00,03,00,00,00,03,00,00,00,FF,FF,FF,FF,FF,FF,\
+  FF,FF,00,00,00,00,00,00,00,00,30,5B,30,30,30,46,3A,30,30,30,30,33,41,30,30,\
+  5D,20,41,20,64,65,62,75,67,67,65,72,20,69,73,20,70,72,65,73,65,6E,74,20,69,\
+  6E,20,6D,65,6D,6F,72,79,2E,4C,00,00,00,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,\
+  FF,FF,FF,FF,00,00,00,00,00,00,00,00,33,50,6C,65,61,73,65,20,75,6E,6C,6F,61,\
+  64,20,61,6E,79,20,64,65,62,75,67,67,69,6E,67,20,73,6F,66,74,77,61,72,65,20,\
+  61,6E,64,20,74,72,79,20,61,67,61,69,6E,2E,38,00,00,00,02,00,00,00,02,00,00,\
+  00,FF,FF,FF,FF,FF,FF,FF,FF,00,00,00,00,02,00,00,00,1F,4D,73,67,49,44,32,20,\
+  3A,20,4D,6F,6E,69,74,6F,72,20,73,6F,66,74,77,61,72,65,20,66,6F,75,6E,64,49,\
+  00,00,00,03,00,00,00,03,00,00,00,FF,FF,FF,FF,FF,FF,FF,FF,00,00,00,00,00,00,\
+  00,00,30,5B,30,30,30,46,3A,30,30,30,30,33,41,30,30,5D,20,41,20,64,65,62,75,\
+  67,67,65,72,20,69,73,20,70,72,65,73,65,6E,74,20,69,6E,20,6D,65,6D,6F,72,79,\
+  2E,4C,00,00,00,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,00,00,00,00,\
+  00,00,00,00,33,50,6C,65,61,73,65,20,75,6E,6C,6F,61,64,20,61,6E,79,20,64,65,\
+  62,75,67,67,69,6E,67,20,73,6F,66,74,77,61,72,65,20,61,6E,64,20,74,72,79,20,\
+  61,67,61,69,6E,2E,35,00,00,00,02,00,00,00,02,00,00,00,FF,FF,FF,FF,FF,FF,FF,\
+  FF,00,00,00,00,02,00,00,00,1C,4D,73,67,49,44,33,20,3A,20,43,72,61,63,6B,69,\
+  6E,67,20,74,6F,6F,6C,20,66,6F,75,6E,64,49,00,00,00,03,00,00,00,03,00,00,00,\
+  FF,FF,FF,FF,FF,FF,FF,FF,00,00,00,00,00,00,00,00,30,5B,30,30,30,46,3A,30,30,\
+  30,30,33,41,30,30,5D,20,41,20,64,65,62,75,67,67,65,72,20,69,73,20,70,72,65,\
+  73,65,6E,74,20,69,6E,20,6D,65,6D,6F,72,79,2E,4C,00,00,00,FF,FF,FF,FF,FF,FF,\
+  FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,00,00,00,00,00,00,00,00,33,50,6C,65,61,73,65,\
+  20,75,6E,6C,6F,61,64,20,61,6E,79,20,64,65,62,75,67,67,69,6E,67,20,73,6F,66,\
+  74,77,61,72,65,20,61,6E,64,20,74,72,79,20,61,67,61,69,6E,2E,30,00,00,00,02,\
+  00,00,00,02,00,00,00,FF,FF,FF,FF,FF,FF,FF,FF,00,00,00,00,02,00,00,00,17,4D,\
+  73,67,49,44,34,20,3A,20,46,69,6C,65,20,63,6F,72,72,75,70,74,65,64,47,00,00,\
+  00,03,00,00,00,03,00,00,00,FF,FF,FF,FF,FF,FF,FF,FF,00,00,00,00,00,00,00,00,\
+  2E,5B,30,30,30,46,3A,30,30,30,30,33,42,30,30,5D,20,41,6E,20,69,6E,74,65,67,\
+  72,69,74,79,20,63,68,65,63,6B,20,68,61,73,20,66,61,69,6C,65,64,2E,4A,00,00,\
+  00,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,00,00,00,00,00,00,00,00,\
+  31,50,6C,65,61,73,65,20,64,6F,77,6E,6C,6F,61,64,20,74,68,65,20,6C,61,74,65,\
+  73,74,20,76,65,72,73,69,6F,6E,20,6F,66,20,74,68,65,20,63,6C,69,65,6E,74,2E,\
+  41,00,00,00,02,00,00,00,02,00,00,00,FF,FF,FF,FF,FF,FF,FF,FF,00,00,00,00,02,\
+  00,00,00,28,4D,73,67,49,44,36,20,3A,20,28,4E,6F,74,20,64,69,73,70,6C,61,79,\
+  65,64,20,69,6E,20,74,68,69,73,20,76,65,72,73,69,6F,6E,29,59,00,00,00,03,00,\
+  00,00,03,00,00,00,FF,FF,FF,FF,FF,FF,FF,FF,00,00,00,00,00,00,00,00,40,43,61,\
+  6E,6E,6F,74,20,55,70,64,61,74,65,20,6F,72,65,61,6E,73,2E,73,79,73,20,64,72,\
+  69,76,65,72,2E,20,50,6C,65,61,73,65,2C,20,6D,61,6B,65,20,73,75,72,65,20,74,\
+  68,61,74,20,79,6F,75,20,68,61,76,65,67,00,00,00,FF,FF,FF,FF,FF,FF,FF,FF,FF,\
+  FF,FF,FF,FF,FF,FF,FF,00,00,00,00,00,00,00,00,4E,61,64,6D,69,6E,69,73,74,72,\
+  61,74,6F,72,27,73,20,70,65,72,6D,69,74,73,20,74,68,65,20,66,69,72,73,74,20,\
+  74,69,6D,65,20,74,68,61,74,20,79,6F,75,20,61,72,65,20,67,6F,69,6E,67,20,74,\
+  6F,20,72,75,6E,20,74,68,69,73,20,70,72,6F,67,72,61,6D,2E,41,00,00,00,02,00,\
+  00,00,02,00,00,00,FF,FF,FF,FF,FF,FF,FF,FF,00,00,00,00,02,00,00,00,28,4D,73,\
+  67,49,44,37,20,3A,20,28,4E,6F,74,20,64,69,73,70,6C,61,79,65,64,20,69,6E,20,\
+  74,68,69,73,20,76,65,72,73,69,6F,6E,29,51,00,00,00,03,00,00,00,03,00,00,00,\
+  FF,FF,FF,FF,FF,FF,FF,FF,00,00,00,00,00,00,00,00,38,43,61,6E,6E,6F,74,20,6F,\
+  70,65,6E,20,6F,72,65,61,6E,73,2E,76,78,64,20,64,72,69,76,65,72,2E,20,4D,61,\
+  6B,65,20,73,75,72,65,20,74,68,61,74,20,6F,72,65,61,6E,73,2E,76,78,64,38,00,\
+  00,00,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,00,00,00,00,00,00,00,\
+  00,1F,69,73,20,6E,6F,74,20,6F,70,65,6E,20,62,79,20,61,6E,6F,74,68,65,72,20,\
+  70,72,6F,67,72,61,6D,2E,41,00,00,00,02,00,00,00,02,00,00,00,FF,FF,FF,FF,FF,\
+  FF,FF,FF,00,00,00,00,03,00,00,00,28,4D,73,67,49,44,38,20,3A,20,28,4E,6F,74,\
+  20,64,69,73,70,6C,61,79,65,64,20,69,6E,20,74,68,69,73,20,76,65,72,73,69,6F,\
+  6E,29,64,00,00,00,03,00,00,00,03,00,00,00,FF,FF,FF,FF,FF,FF,FF,FF,00,00,00,\
+  00,00,00,00,00,4B,53,65,63,75,72,65,45,6E,67,69,6E,65,20,64,72,69,76,65,72,\
+  20,63,61,6E,6E,6F,74,20,62,65,20,75,70,64,61,74,65,64,20,62,65,63,61,75,73,\
+  65,20,74,68,65,72,65,20,61,72,65,20,73,6F,6D,65,20,70,72,6F,67,72,61,6D,73,\
+  20,75,73,69,6E,67,57,00,00,00,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,\
+  FF,00,00,00,00,00,00,00,00,3E,69,74,2E,20,59,6F,75,20,6E,65,65,64,20,74,6F,\
+  20,63,6C,6F,73,65,20,74,68,6F,73,65,20,70,72,6F,67,72,61,6D,73,20,6F,72,20,\
+  72,65,73,74,61,72,74,20,79,6F,75,72,20,63,6F,6D,70,75,74,65,72,2E,25,00,00,\
+  00,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,00,00,00,00,00,00,00,00,\
+  0C,52,65,73,74,61,72,74,20,6E,6F,77,3F,41,00,00,00,02,00,00,00,02,00,00,00,\
+  FF,FF,FF,FF,FF,FF,FF,FF,00,00,00,00,02,00,00,00,28,4D,73,67,49,44,39,20,3A,\
+  20,28,4E,6F,74,20,64,69,73,70,6C,61,79,65,64,20,69,6E,20,74,68,69,73,20,76,\
+  65,72,73,69,6F,6E,29,42,00,00,00,03,00,00,00,03,00,00,00,FF,FF,FF,FF,FF,FF,\
+  FF,FF,00,00,00,00,00,00,00,00,29,59,6F,75,20,6E,65,65,64,20,74,6F,20,72,65,\
+  73,74,61,72,74,20,74,68,65,20,73,79,73,74,65,6D,20,74,6F,20,66,69,6E,69,73,\
+  68,20,43,00,00,00,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,00,00,00,\
+  00,00,00,00,00,2A,74,68,65,20,69,6E,73,74,61,6C,6C,61,74,69,6F,6E,20,6F,66,\
+  20,74,68,65,20,64,72,69,76,65,72,2E,20,52,65,73,65,74,20,6E,6F,77,3F,42,00,\
+  00,00,02,00,00,00,02,00,00,00,FF,FF,FF,FF,FF,FF,FF,FF,00,00,00,00,02,00,00,\
+  00,29,4D,73,67,49,44,31,30,20,3A,20,28,4E,6F,74,20,64,69,73,70,6C,61,79,65,\
+  64,20,69,6E,20,74,68,69,73,20,76,65,72,73,69,6F,6E,29,30,00,00,00,03,00,00,\
+  00,03,00,00,00,FF,FF,FF,FF,FF,FF,FF,FF,00,00,00,00,00,00,00,00,17,43,61,6E,\
+  6E,6F,74,20,77,72,69,74,65,20,6F,72,65,61,6E,73,2E,76,78,64,57,00,00,00,FF,\
+  FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,00,00,00,00,00,00,00,00,3E,4D,\
+  61,6B,65,20,73,75,72,65,20,74,68,61,74,20,74,68,69,73,20,66,69,6C,65,20,69,\
+  73,20,6E,6F,74,20,62,65,69,6E,67,20,75,73,65,64,20,62,79,20,61,6E,6F,74,68,\
+  65,72,20,70,72,6F,67,72,61,6D,2E,3E,00,00,00,02,00,00,00,02,00,00,00,FF,FF,\
+  FF,FF,FF,FF,FF,FF,00,00,00,00,02,00,00,00,25,4D,73,67,49,44,31,32,20,3A,20,\
+  49,6E,74,65,72,6E,61,6C,20,65,78,63,65,70,74,69,6F,6E,20,6F,63,63,75,72,72,\
+  65,64,43,00,00,00,03,00,00,00,03,00,00,00,FF,FF,FF,FF,FF,FF,FF,FF,00,00,00,\
+  00,00,00,00,00,2A,5B,30,30,30,46,3A,25,30,38,78,5D,20,41,6E,20,69,6E,74,65,\
+  67,72,69,74,79,20,63,68,65,63,6B,20,68,61,73,20,66,61,69,6C,65,64,2E,6B,00,\
+  00,00,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,00,00,00,00,00,00,00,\
+  00,52,49,66,20,74,68,65,20,70,72,6F,62,6C,65,6D,20,70,65,72,73,69,73,74,73,\
+  2C,20,63,6F,6E,74,61,63,74,20,61,6E,20,61,64,6D,69,6E,69,73,74,72,61,74,6F,\
+  72,20,61,6E,64,20,70,72,6F,76,69,64,65,20,74,68,65,6D,20,74,68,65,20,65,72,\
+  72,6F,72,20,63,6F,64,65,2E,3A,00,00,00,02,00,00,00,02,00,00,00,FF,FF,FF,FF,\
+  FF,FF,FF,FF,00,00,00,00,02,00,00,00,21,4D,73,67,49,44,31,33,3A,20,56,69,72,\
+  74,75,61,6C,20,4D,61,63,68,69,6E,65,20,44,65,74,65,63,74,65,64,4C,00,00,00,\
+  03,00,00,00,03,00,00,00,FF,FF,FF,FF,FF,FF,FF,FF,00,00,00,00,00,00,00,00,33,\
+  5B,30,30,30,46,3A,30,30,30,30,33,43,30,30,5D,20,41,20,76,69,72,74,75,61,6C,\
+  20,65,6E,76,69,72,6F,6E,6D,65,6E,74,20,77,61,73,20,64,65,74,65,63,74,65,64,\
+  2E,5F,00,00,00,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,FF,00,00,00,00,\
+  00,00,00,00,46,50,6C,65,61,73,65,20,64,69,73,61,62,6C,65,20,61,6E,79,20,68,\
+  79,70,65,72,76,69,73,6F,72,20,2F,20,76,69,72,74,75,61,6C,20,6D,61,63,68,69,\
+  6E,65,73,20,79,6F,75,20,6D,69,67,68,74,20,62,65,20,72,75,6E,6E,69,6E,67,2E,00
+RzAntidebug.ItemIndex=1
+RzApiWrapping.ItemIndex=2
+SplashFile.AltBtnVisible="False"
+SplashFile.ButtonVisible="True"
+SplashMouse.Checked="False"
+SplashNumSeconds.Value=0.0
+SplashTime.Checked="True"
+
+[Themida]
+autoblocks=False
+blocknumber=0
+blockscrc32=
+crc32="$4525A0DA"
+CustMsgDLLFunction0=
+CustomVMCpus[0]="1"
+CustomVMCpus[1]="1"
+CustomVMCpus[2]="1"
+CustomVMId[0]="0xD4A7990A"
+CustomVMId[1]="0xD4A79901"
+CustomVMId[2]="0x84581901"
+CustomVMIntegrityCheck[0]="True"
+CustomVMIntegrityCheck[1]="True"
+CustomVMIntegrityCheck[2]="True"
+CustomVM_Number=3
+messages=hex:01,02,00,06,17,4D,73,67,49,44,30,20,3A,20,47,6C,6F,62,61,6C,20,\
+  43,61,70,74,69,6F,6E,02,02,02,02,02,00,02,01,06,01,20,02,FF,02,FF,02,00,02,\
+  00,06,17,4D,73,67,49,44,31,20,3A,20,44,65,62,75,67,67,65,72,20,66,6F,75,6E,\
+  64,02,02,02,02,02,00,02,01,06,30,5B,30,30,30,46,3A,30,30,30,30,33,41,30,30,\
+  5D,20,41,20,64,65,62,75,67,67,65,72,20,69,73,20,70,72,65,73,65,6E,74,20,69,\
+  6E,20,6D,65,6D,6F,72,79,2E,02,03,02,03,02,00,02,01,06,33,50,6C,65,61,73,65,\
+  20,75,6E,6C,6F,61,64,20,61,6E,79,20,64,65,62,75,67,67,69,6E,67,20,73,6F,66,\
+  74,77,61,72,65,20,61,6E,64,20,74,72,79,20,61,67,61,69,6E,2E,02,FF,02,FF,02,\
+  00,02,00,06,1F,4D,73,67,49,44,32,20,3A,20,4D,6F,6E,69,74,6F,72,20,73,6F,66,\
+  74,77,61,72,65,20,66,6F,75,6E,64,02,02,02,02,02,00,02,01,06,30,5B,30,30,30,\
+  46,3A,30,30,30,30,33,41,30,30,5D,20,41,20,64,65,62,75,67,67,65,72,20,69,73,\
+  20,70,72,65,73,65,6E,74,20,69,6E,20,6D,65,6D,6F,72,79,2E,02,03,02,03,02,00,\
+  02,01,06,33,50,6C,65,61,73,65,20,75,6E,6C,6F,61,64,20,61,6E,79,20,64,65,62,\
+  75,67,67,69,6E,67,20,73,6F,66,74,77,61,72,65,20,61,6E,64,20,74,72,79,20,61,\
+  67,61,69,6E,2E,02,FF,02,FF,02,00,02,00,06,1C,4D,73,67,49,44,33,20,3A,20,43,\
+  72,61,63,6B,69,6E,67,20,74,6F,6F,6C,20,66,6F,75,6E,64,02,02,02,02,02,00,02,\
+  01,06,30,5B,30,30,30,46,3A,30,30,30,30,33,41,30,30,5D,20,41,20,64,65,62,75,\
+  67,67,65,72,20,69,73,20,70,72,65,73,65,6E,74,20,69,6E,20,6D,65,6D,6F,72,79,\
+  2E,02,03,02,03,02,00,02,01,06,33,50,6C,65,61,73,65,20,75,6E,6C,6F,61,64,20,\
+  61,6E,79,20,64,65,62,75,67,67,69,6E,67,20,73,6F,66,74,77,61,72,65,20,61,6E,\
+  64,20,74,72,79,20,61,67,61,69,6E,2E,02,FF,02,FF,02,00,02,00,06,17,4D,73,67,\
+  49,44,34,20,3A,20,46,69,6C,65,20,63,6F,72,72,75,70,74,65,64,02,02,02,02,02,\
+  00,02,01,06,2E,5B,30,30,30,46,3A,30,30,30,30,33,42,30,30,5D,20,41,6E,20,69,\
+  6E,74,65,67,72,69,74,79,20,63,68,65,63,6B,20,68,61,73,20,66,61,69,6C,65,64,\
+  2E,02,03,02,03,02,00,02,01,06,31,50,6C,65,61,73,65,20,64,6F,77,6E,6C,6F,61,\
+  64,20,74,68,65,20,6C,61,74,65,73,74,20,76,65,72,73,69,6F,6E,20,6F,66,20,74,\
+  68,65,20,63,6C,69,65,6E,74,2E,02,FF,02,FF,02,00,02,00,06,28,4D,73,67,49,44,\
+  36,20,3A,20,28,4E,6F,74,20,64,69,73,70,6C,61,79,65,64,20,69,6E,20,74,68,69,\
+  73,20,76,65,72,73,69,6F,6E,29,02,02,02,02,02,00,02,01,06,40,43,61,6E,6E,6F,\
+  74,20,55,70,64,61,74,65,20,6F,72,65,61,6E,73,2E,73,79,73,20,64,72,69,76,65,\
+  72,2E,20,50,6C,65,61,73,65,2C,20,6D,61,6B,65,20,73,75,72,65,20,74,68,61,74,\
+  20,79,6F,75,20,68,61,76,65,02,03,02,03,02,00,02,01,06,4E,61,64,6D,69,6E,69,\
+  73,74,72,61,74,6F,72,27,73,20,70,65,72,6D,69,74,73,20,74,68,65,20,66,69,72,\
+  73,74,20,74,69,6D,65,20,74,68,61,74,20,79,6F,75,20,61,72,65,20,67,6F,69,6E,\
+  67,20,74,6F,20,72,75,6E,20,74,68,69,73,20,70,72,6F,67,72,61,6D,2E,02,FF,02,\
+  FF,02,00,02,00,06,28,4D,73,67,49,44,37,20,3A,20,28,4E,6F,74,20,64,69,73,70,\
+  6C,61,79,65,64,20,69,6E,20,74,68,69,73,20,76,65,72,73,69,6F,6E,29,02,02,02,\
+  02,02,00,02,01,06,38,43,61,6E,6E,6F,74,20,6F,70,65,6E,20,6F,72,65,61,6E,73,\
+  2E,76,78,64,20,64,72,69,76,65,72,2E,20,4D,61,6B,65,20,73,75,72,65,20,74,68,\
+  61,74,20,6F,72,65,61,6E,73,2E,76,78,64,02,03,02,03,02,00,02,01,06,1F,69,73,\
+  20,6E,6F,74,20,6F,70,65,6E,20,62,79,20,61,6E,6F,74,68,65,72,20,70,72,6F,67,\
+  72,61,6D,2E,02,FF,02,FF,02,00,02,00,06,28,4D,73,67,49,44,38,20,3A,20,28,4E,\
+  6F,74,20,64,69,73,70,6C,61,79,65,64,20,69,6E,20,74,68,69,73,20,76,65,72,73,\
+  69,6F,6E,29,02,02,02,02,02,00,02,01,06,4B,53,65,63,75,72,65,45,6E,67,69,6E,\
+  65,20,64,72,69,76,65,72,20,63,61,6E,6E,6F,74,20,62,65,20,75,70,64,61,74,65,\
+  64,20,62,65,63,61,75,73,65,20,74,68,65,72,65,20,61,72,65,20,73,6F,6D,65,20,\
+  70,72,6F,67,72,61,6D,73,20,75,73,69,6E,67,02,03,02,03,02,00,02,01,06,3E,69,\
+  74,2E,20,59,6F,75,20,6E,65,65,64,20,74,6F,20,63,6C,6F,73,65,20,74,68,6F,73,\
+  65,20,70,72,6F,67,72,61,6D,73,20,6F,72,20,72,65,73,74,61,72,74,20,79,6F,75,\
+  72,20,63,6F,6D,70,75,74,65,72,2E,02,FF,02,FF,02,00,02,01,06,0C,52,65,73,74,\
+  61,72,74,20,6E,6F,77,3F,02,FF,02,FF,02,00,02,00,06,28,4D,73,67,49,44,39,20,\
+  3A,20,28,4E,6F,74,20,64,69,73,70,6C,61,79,65,64,20,69,6E,20,74,68,69,73,20,\
+  76,65,72,73,69,6F,6E,29,02,02,02,02,02,00,02,01,06,29,59,6F,75,20,6E,65,65,\
+  64,20,74,6F,20,72,65,73,74,61,72,74,20,74,68,65,20,73,79,73,74,65,6D,20,74,\
+  6F,20,66,69,6E,69,73,68,20,02,03,02,03,02,00,02,01,06,2A,74,68,65,20,69,6E,\
+  73,74,61,6C,6C,61,74,69,6F,6E,20,6F,66,20,74,68,65,20,64,72,69,76,65,72,2E,\
+  20,52,65,73,65,74,20,6E,6F,77,3F,02,FF,02,FF,02,00,02,00,06,29,4D,73,67,49,\
+  44,31,30,20,3A,20,28,4E,6F,74,20,64,69,73,70,6C,61,79,65,64,20,69,6E,20,74,\
+  68,69,73,20,76,65,72,73,69,6F,6E,29,02,02,02,02,02,00,02,01,06,17,43,61,6E,\
+  6E,6F,74,20,77,72,69,74,65,20,6F,72,65,61,6E,73,2E,76,78,64,02,03,02,03,02,\
+  00,02,01,06,3E,4D,61,6B,65,20,73,75,72,65,20,74,68,61,74,20,74,68,69,73,20,\
+  66,69,6C,65,20,69,73,20,6E,6F,74,20,62,65,69,6E,67,20,75,73,65,64,20,62,79,\
+  20,61,6E,6F,74,68,65,72,20,70,72,6F,67,72,61,6D,2E,02,FF,02,FF,02,00,02,00,\
+  06,25,4D,73,67,49,44,31,32,20,3A,20,49,6E,74,65,72,6E,61,6C,20,65,78,63,65,\
+  70,74,69,6F,6E,20,6F,63,63,75,72,72,65,64,02,02,02,02,02,00,02,01,06,2A,5B,\
+  30,30,30,46,3A,25,30,38,78,5D,20,41,6E,20,69,6E,74,65,67,72,69,74,79,20,63,\
+  68,65,63,6B,20,68,61,73,20,66,61,69,6C,65,64,2E,02,03,02,03,02,00,02,01,06,\
+  52,49,66,20,74,68,65,20,70,72,6F,62,6C,65,6D,20,70,65,72,73,69,73,74,73,2C,\
+  20,63,6F,6E,74,61,63,74,20,61,6E,20,61,64,6D,69,6E,69,73,74,72,61,74,6F,72,\
+  20,61,6E,64,20,70,72,6F,76,69,64,65,20,74,68,65,6D,20,74,68,65,20,65,72,72,\
+  6F,72,20,63,6F,64,65,2E,02,FF,02,FF,02,00,02,00,06,21,4D,73,67,49,44,31,33,\
+  3A,20,56,69,72,74,75,61,6C,20,4D,61,63,68,69,6E,65,20,44,65,74,65,63,74,65,\
+  64,02,02,02,02,02,00,02,01,06,33,5B,30,30,30,46,3A,30,30,30,30,33,43,30,30,\
+  5D,20,41,20,76,69,72,74,75,61,6C,20,65,6E,76,69,72,6F,6E,6D,65,6E,74,20,77,\
+  61,73,20,64,65,74,65,63,74,65,64,2E,02,03,02,03,02,00,02,01,06,46,50,6C,65,\
+  61,73,65,20,64,69,73,61,62,6C,65,20,61,6E,79,20,68,79,70,65,72,76,69,73,6F,\
+  72,20,2F,20,76,69,72,74,75,61,6C,20,6D,61,63,68,69,6E,65,73,20,79,6F,75,20,\
+  6D,69,67,68,74,20,62,65,20,72,75,6E,6E,69,6E,67,2E,02,FF,02,FF,02,00,00
+NumMAPfunctions=0
+VirtualizeCoreWithVM="EAGLE64 (White)"
+VirtualizeVMmacroWithVM="EAGLE64 (White)"
+XBundlerEna=0
+XBundlerNumFiles=0
+XBundlerOpenDialogEnable=0
+

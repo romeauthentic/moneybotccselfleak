@@ -1,0 +1,41 @@
+﻿  autowall.cpp
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\vector.hpp(316,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\simple_settings.hpp(82,11): error C3861: 'name': identifier not found
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\simple_settings.hpp(101): message : see reference to class template instantiation 'SettingString<L>' being compiled
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\x86.hpp(37,2): warning C4267: 'return': conversion from 'size_t' to 'uint32_t', possible loss of data
+  base_cheat.cpp
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\vector.hpp(316,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\simple_settings.hpp(82,11): error C3861: 'name': identifier not found
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\simple_settings.hpp(101): message : see reference to class template instantiation 'SettingString<L>' being compiled
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\x86.hpp(37,2): warning C4267: 'return': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\movement_recorder.hpp(15,34): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  begin_lock.cpp
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\vector.hpp(316,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\simple_settings.hpp(82,11): error C3861: 'name': identifier not found
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\simple_settings.hpp(101): message : see reference to class template instantiation 'SettingString<L>' being compiled
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\renderer.hpp(91,3): error C3861: 'g_csgo': identifier not found
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\renderer.hpp(91,3): message : This diagnostic occurred in the compiler generated function 'void drawings::c_drawings::draw_string(HFont,int,int,const clr_t &,const wchar_t *,...)'
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\x86.hpp(37,2): warning C4267: 'return': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\movement_recorder.hpp(15,34): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  chams.cpp
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\vector.hpp(316,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\simple_settings.hpp(82,11): error C3861: 'name': identifier not found
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\simple_settings.hpp(101): message : see reference to class template instantiation 'SettingString<L>' being compiled
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\x86.hpp(37,2): warning C4267: 'return': conversion from 'size_t' to 'uint32_t', possible loss of data
+  console.cpp
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\simple_settings.hpp(82,11): error C3861: 'name': identifier not found
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\simple_settings.hpp(101): message : see reference to class template instantiation 'SettingString<L>' being compiled
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\vector.hpp(316,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\x86.hpp(37,2): warning C4267: 'return': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\d3d_sprite.hpp(25,21): error C4596: '{ctor}': illegal qualified name in member declaration
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\d3d_sprite.hpp(29,22): error C4596: '{dtor}': illegal qualified name in member declaration
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\d3d_sprite.hpp(57,1): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\console.cpp(46,5): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\console.cpp(57,44): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\console.cpp(58,84): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\console.cpp(172,21): error C2668: 'ISetting::set': ambiguous call to overloaded function
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\simple_settings.hpp(71,15): message : could be 'void ISetting::set(ulong_t)'
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\simple_settings.hpp(70,15): message : or       'void ISetting::set(int)'
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\simple_settings.hpp(69,15): message : or       'void ISetting::set(float)'
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\console.cpp(172,21): message : while trying to match the argument list '(long)'
+C:\Users\colin\Desktop\moneybot\software\2018\navewindre-moneybot-7c489bbc1d86\internal_rewrite\console.cpp(311,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data

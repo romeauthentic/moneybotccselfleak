@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Networking">
+      <UniqueIdentifier>{6fc0b232-87f4-4bf9-97d9-d5ee1ffb9b0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Security">
+      <UniqueIdentifier>{46b100eb-f5b1-44c7-9641-582e95387060}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Login">
+      <UniqueIdentifier>{b75e08e0-f7fb-4fc5-971f-31573fd5f41a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RemoteCode">
+      <UniqueIdentifier>{bdd26646-f9bb-42f8-8ba3-f9ab232e1d9d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Server.cpp" />
+    <ClCompile Include="Security\Encryption.cpp">
+      <Filter>Security</Filter>
+    </ClCompile>
+    <ClCompile Include="Networking\TCPServer.cpp">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="Login\RemoteLogin.cpp">
+      <Filter>Login</Filter>
+    </ClCompile>
+    <ClCompile Include="Networking\WebSocket.cpp">
+      <Filter>Networking</Filter>
+    </ClCompile>
+    <ClCompile Include="RemoteCode\FileReader.cpp">
+      <Filter>RemoteCode</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Security\Encryption.hpp">
+      <Filter>Security</Filter>
+    </ClInclude>
+    <ClInclude Include="Networking\TCPServer.hpp">
+      <Filter>Networking</Filter>
+    </ClInclude>
+    <ClInclude Include="Login\RemoteLogin.hpp">
+      <Filter>Login</Filter>
+    </ClInclude>
+    <ClInclude Include="Networking\WebSocket.hpp">
+      <Filter>Networking</Filter>
+    </ClInclude>
+    <ClInclude Include="RemoteCode\FileReader.hpp">
+      <Filter>RemoteCode</Filter>
+    </ClInclude>
+    <ClInclude Include="Security\FnvHash.hpp">
+      <Filter>Security</Filter>
+    </ClInclude>
+    <ClInclude Include="Server.hpp" />
+  </ItemGroup>
+</Project>
